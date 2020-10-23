@@ -1,5 +1,3 @@
---loadstring(game:HttpGet("https://raw.githubusercontent.com/greenmaskenergy/vbob/master/whitelist.gme"))()
-
 VFplR ={
     ["232100"] = {true},
     ["4644299"] = {true},
@@ -8,6 +6,3 @@ VFplR ={
    
 }
 
-for i,v in pairs(VFplR) do
-	print(v)
-end
