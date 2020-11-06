@@ -1,3 +1,4 @@
+print("loadstring assets start of file")
 LAssets = {
 	Eglobe = {"🌎"},
 	Eid = {"🆔"},
@@ -5,3 +6,5 @@ LAssets = {
 	Efree = {"🆓"},
 	
 }
+
+print("loadstring assets END of file")
